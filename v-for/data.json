@@ -1,0 +1,30 @@
+{
+	"cart": [
+		{
+			"url": "https://www.amazon.com.tr/gp/product/B07BBKNPJH/ref=s9_acsd_hps_bw_c_x_2_w?pf_rd_m=A1UNQM1SR2CHM&pf_rd_s=merchandised-search-4&pf_rd_r=840JPS84RT4NG5YNP3JN&pf_rd_t=101&pf_rd_p=159eb513-847b-4952-8636-c804ec741f6b&pf_rd_i=12466440031",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81iF46QtL0L._AC_SL1500_.jpg",
+			"name": "HP 3Dm11Ea 14 inç Dizüstü Bilgisayar Intel Core i5 8 GB 1024 GB Intel HD Graphics, (Windows veya herhangi bir işletim sistemi bulunmamaktadır)",
+			"seller": "HP",
+			"isAvailable": true,
+			"isEligible": true
+		},
+		{
+			"url": "https://www.amazon.com.tr/gp/product/B07JW74L9Q/ref=s9_acsd_hps_bw_c_x_6_w?pf_rd_m=A1UNQM1SR2CHM&pf_rd_s=merchandised-search-4&pf_rd_r=840JPS84RT4NG5YNP3JN&pf_rd_t=101&pf_rd_p=159eb513-847b-4952-8636-c804ec741f6b&pf_rd_i=12466440031",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71TJf3PHA4L._AC_SL1500_.jpg",
+			"name": "LENOVO NB Y530-15ICH 81FV001KTX, Intel i7-8750H işlemci, 16G DDR4 Bellek, 2TB HDD + 256G SSD, 15.6 FullHD, Nvidia GTX1050ti 4GVGA Ekran Kartı, Windows 10 Home",
+			"seller": "Lenovo",
+			"isAvailable": true,
+			"isEligible": true
+		}
+	],
+	"saved": [
+		{
+			"url": "https://www.amazon.com.tr/gp/product/B07WYGT3SF/ref=s9_acsd_top_hd_bw_bLtLetL_c_x_w?pf_rd_m=A1UNQM1SR2CHM&pf_rd_s=merchandised-search-11&pf_rd_r=76Y6M7M28ZQ29J7NJ4E2&pf_rd_t=101&pf_rd_p=5d3fb44d-5347-5983-a479-733d4d2d2047&pf_rd_i=20056650031",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/8143BDUuorL._AC_SL1500_.jpg",
+			"name": "MSI 15.6\" Dizüstü Oyun Bilgisayar, Intel Core i5-9300H, 256 GB SSD, 8 GB DDR4, Nvidia GeForce GTX1650, GL63 9SC-201XTR, Siyah",
+			"seller": "MSI",
+			"isAvailable": true,
+			"isEligible": true
+		}
+	]
+}
