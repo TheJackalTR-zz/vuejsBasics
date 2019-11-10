@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <script src="https://unpkg.com/vue/dist/vue.js"></script>
+        <script src="app.js"></script>
+
+        <meta charset="UTF-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+        <title>Vue</title>
+    </head>
+
+    <body>
+        <div id="app">
+            <!--
+               <h1 v-if="isLoggedIn">
+                   {{message}} {{username}}
+               </h1>
+
+               <h1 v-if="!isLoggedIn">
+                   Anon User
+               </h1>
+
+               <h1 v-show="isLoggedIn">
+                   {{message}} {{username}}
+               </h1>
+
+               <h1 v-show="!isLoggedIn">
+                   Anon User
+               </h1>
+           -->
+            <div v-html="message">
+            </div>
+        </div>
+
+    </body>
+
+</html>
